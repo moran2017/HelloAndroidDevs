@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloAndroidDevs</string>
+    <string name="main_welcome_landscape_text">¡ Ahora en posición horizontal !</string>
+    <string name="main_welcome_text">¡ Bienvenidos desarrolladores !</string>
+    <string name="sample_empty_done_text">Listo</string>
+    <string name="main_welcome_portrait_text">! Estamos en posición vertical</string>
+    <string name="main_snackbar_action_text">Sí</string>
+    <string name="main_snackbar_text">¿ Iniciar actividad en blanco ?</string>
+    <string name="action_settings">Ajustes</string>
+</resources>
